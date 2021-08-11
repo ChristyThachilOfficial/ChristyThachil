@@ -37,6 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -878,6 +879,9 @@ section {
 
 .services .iconbox-pink:hover .icon i {
   color: #fff;
+}
+.icon:hover{
+  background: lightgray;
 }
 
 .services .iconbox-pink:hover .icon path {
